@@ -12,7 +12,7 @@ The **Coffee-Insights** project provides a comprehensive overview of retail coff
 
 ## 📊 Dashboard Preview
 
-![Coffee-Insights Dashboard](Screenshot 2026-10-03 201324.png)
+![Coffee-Insights Dashboard](https://raw.githubusercontent.com/Anvay-Deshmukh/Coffee-Insights-Sales-Performance-Consumer-Trends-Dashboard/main/Screenshot%202026-10-03%20201324.png)
 
 ### Key Metrics Tracked
 * **Total Cups Sold:** High-volume transaction tracking across all beverage categories.
